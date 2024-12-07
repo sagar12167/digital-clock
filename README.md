@@ -8,3 +8,4 @@ In html we use Class and id we have to take the class and id name to style the c
 Create a New File with .js 
 we use Elements and getdata for the hours,minutes,seconds and am or pm.
 and functions to run the Elements.
+digital-clock
